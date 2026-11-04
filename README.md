@@ -58,6 +58,10 @@ Any future integration must preserve those boundaries. A user interface must nev
 
 Python · Linux · Solana · Security Engineering · Desktop Applications · Wallet Security · Cryptographic Verification · Software Integrity · Reproducible Builds · Automation · Systems Architecture
 
+## Feedback and security reporting
+
+Non-sensitive documentation corrections may be proposed through public pull requests. Public Issues, Wiki and Projects are disabled. For concerns about this public repository, use the confidential reporting route described in [SECURITY.md](SECURITY.md). This does not grant access to private software or infrastructure.
+
 ## Privacy and source availability
 
 T-Bot and BrainBot are privately developed and are **not currently distributed as public software products**. These public repositories are documentation-focused, not releases of their private applications.
