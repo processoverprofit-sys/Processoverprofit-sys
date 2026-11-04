@@ -1,4 +1,4 @@
-![ProcessOverProfit Animated Banner](ProcessOverProfit_Main_Animated_Banner.gif)
+![ProcessOverProfit Animated Banner](assets/ProcessOverProfit_Main_Animated_Banner.gif)
 ProcessOverProfit
 
 Independent Development | Systems Engineering | Security Research
