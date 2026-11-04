@@ -1,11 +1,12 @@
 ![ProcessOverProfit Animated Banner](assets/ProcessOverProfit_Main_Animated_Banner.gif)
-ProcessOverProfit
 
-Independent Development | Systems Engineering | Security Research
+# ProcessOverProfit | Engineering HQ
 
-Process Over Profit — Verification Before Execution.
+**Independent Software Engineering · Linux · Security Research**
 
-Building local-first software with an emphasis on security, deterministic behaviour, privacy, reproducibility and controlled execution.
+### Verification Before Execution
+
+A public engineering portfolio documenting security-first software development, local-first architecture, deterministic systems and independently maintained projects.
 
 ---
 
