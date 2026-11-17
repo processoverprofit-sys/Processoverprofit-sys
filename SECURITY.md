@@ -6,7 +6,7 @@ This is a **public, documentation-only** repository. It is not a public release 
 
 ## Confidential reporting
 
-To report a potential vulnerability in **this public repository**, use GitHub's **Security → Advisories → Report a vulnerability** feature. Private vulnerability reporting is enabled for this repository.
+To report a potential vulnerability in **this public repository**, use GitHub's **Security → Advisories → Report a vulnerability** feature. Use this route only if GitHub displays the private reporting option. Its availability has not been independently confirmed. If unavailable, do not submit the finding publicly; wait for a verified confidential route.
 
 Do **not** post sensitive findings in public issues, pull requests or discussions. Do not include credentials, wallets, private source code, internal logs, operational paths or unpublished security evidence. If such material has already been exposed, avoid copying it into a new report and state only that sensitive material may be present.
 

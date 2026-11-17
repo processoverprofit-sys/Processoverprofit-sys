@@ -15,3 +15,7 @@ Please limit submissions to general, non-sensitive corrections or engineering su
 ## Rights and expectations
 
 Submit only material you have the right to share publicly. Feedback does not establish employment, contractual obligations, unrestricted access, a contributor licence agreement or an obligation to accept a contribution. Material posted publicly may be indexed or copied even if later removed.
+
+## Before submitting
+
+Read the [publication checklist](docs/PUBLICATION_CHECKLIST.md) and [community conduct](CODE_OF_CONDUCT.md). Use the pull request template for non-sensitive corrections only.

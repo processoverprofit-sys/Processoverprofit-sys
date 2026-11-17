@@ -10,6 +10,8 @@ Welcome to ProcessOverProfit, my public engineering portfolio. I'm independently
 
 The public repositories explain the projects, their design goals, development status and review questions. They do not distribute the private applications or ask anyone to trust unverified software with their money or systems.
 
+**Start here:** [Frequently asked questions](docs/FAQ.md) · [Publication checklist](docs/PUBLICATION_CHECKLIST.md) · [Evidence report template](docs/EVIDENCE_REPORT_TEMPLATE.md) · [Community conduct](CODE_OF_CONDUCT.md)
+
 **Explore:** [Projects](#projects) · [Technical documentation](#technical-documentation) · [Roadmap](docs/ROADMAP.md) · [Community](#join-the-processoverprofit-community) · [Engineering philosophy](#engineering-philosophy) · [Privacy](#privacy-and-source-availability)
 
 ---
