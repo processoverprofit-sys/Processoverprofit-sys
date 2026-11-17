@@ -31,7 +31,7 @@ T-Bot's [community feedback record](https://github.com/processoverprofit-sys/T-B
 
 ## Requesting Discord access
 
-There is no public invitation URL in this guide. If you encountered the project through Reddit or another community discussion, you can express interest in joining there, subject to that community's rules. The maintainer manages invitations and any developer access separately.
+There is no public invitation or application URL in this guide yet. If you encountered the project through Reddit or another existing community discussion, you can express interest in joining there, subject to that community's rules. The maintainer manages invitations and any developer access separately. If you arrived through GitHub alone, a direct joining route is not yet available; this page will be updated once an application-based route has been verified and approved. Do not use security reports or documentation pull requests to request membership.
 
 General discussion does not require access to private source code. Joining Discord does not establish a contributor role, employment, a review engagement or permission to access private systems.
 

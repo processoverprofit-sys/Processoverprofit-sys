@@ -20,9 +20,9 @@ See [T-Bot development status](https://github.com/processoverprofit-sys/T-Bot/bl
 | --- | --- | --- |
 | Project identity and introductory documentation | Published | Engineering HQ and separate project repositories |
 | T-Bot Level 2 technical documentation | Published | Architecture, risk principles, threat model, illustrative testing, development status and community feedback |
-| Engineering HQ community hub | In review | Central navigation, community guide and roadmap |
-| BrainBot expanded documentation | Planned | Public-safe explanation of purpose, design principles and development status |
-| Community discoverability | In development | Consistent community information and an approved invitation-request route |
+| Engineering HQ community hub | Published | Central navigation, community guide and roadmap |
+| BrainBot expanded documentation | Published | Public-safe architecture, development status, security principles, illustrative testing and community guidance |
+| Community discoverability | Partially complete | All three repositories describe the Discord community; a verified direct application route remains pending |
 | Community feedback follow-up | Planned | Invite further constructive review and document responses where appropriate |
 | Public evidence summaries | Conditional | Selected, reviewed, non-sensitive results only when supported by actual evidence |
 
