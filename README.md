@@ -10,7 +10,7 @@ Welcome to ProcessOverProfit, my public engineering portfolio. I'm independently
 
 The public repositories explain the projects, their design goals, development status and review questions. They do not distribute the private applications or ask anyone to trust unverified software with their money or systems.
 
-**Explore:** [Projects](#projects) · [Technical documentation](#technical-documentation) · [Roadmap](docs/ROADMAP.md) · [Community](#join-the-processoverprofit-community) · [Engineering philosophy](#engineering-philosophy) · [Privacy](#privacy-and-source-availability)
+**Explore:** [Projects](#projects) · [Technical documentation](#technical-documentation) · [Roadmap](docs/ROADMAP.md) · [Community](#join-the-processoverprofit-community) · [FAQ](docs/FAQ.md) · [Engineering philosophy](#engineering-philosophy) · [Privacy](#privacy-and-source-availability)
 
 ---
 
@@ -54,7 +54,17 @@ Following constructive Reddit feedback, T-Bot's Level 2 public technical documen
 | [Development status](https://github.com/processoverprofit-sys/T-Bot/blob/main/docs/DEVELOPMENT_STATUS.md) | Qualification status, limitations and review provenance |
 | [Community feedback](https://github.com/processoverprofit-sys/T-Bot/blob/main/docs/COMMUNITY_FEEDBACK.md) | Feedback received, responses and remaining questions |
 
-For an overview of public milestones and planned documentation work, see the [public roadmap](docs/ROADMAP.md).
+BrainBot also has expanded public technical documentation:
+
+| Document | What you can review |
+| --- | --- |
+| [Architecture](https://github.com/processoverprofit-sys/BrainBot/blob/main/docs/ARCHITECTURE.md) | Conceptual desktop responsibilities and trust boundaries |
+| [Development status](https://github.com/processoverprofit-sys/BrainBot/blob/main/docs/DEVELOPMENT_STATUS.md) | Historical milestone and limits of public evidence |
+| [Security principles](https://github.com/processoverprofit-sys/BrainBot/blob/main/docs/SECURITY_PRINCIPLES.md) | Intended access and privacy requirements |
+| [Testing](https://github.com/processoverprofit-sys/BrainBot/blob/main/docs/TESTING.md) | Fictional, unexecuted test examples |
+| [Community feedback](https://github.com/processoverprofit-sys/BrainBot/blob/main/docs/COMMUNITY.md) | Public design questions and participation guidance |
+
+For public milestones see the [roadmap](docs/ROADMAP.md). For publication standards see the [publication checklist](docs/PUBLICATION_CHECKLIST.md), [evidence report template](docs/EVIDENCE_REPORT_TEMPLATE.md) and [Stage 7 review record](docs/STAGE7_SECURITY_QUALITY_REVIEW.md). The template is not a test result.
 
 ## How the projects relate
 
@@ -89,7 +99,7 @@ Python · Linux · Solana · Security Engineering · Desktop Applications · Wal
 
 ## Feedback and security reporting
 
-Non-sensitive documentation corrections may be proposed through public pull requests at the maintainer's discretion. Read [CONTRIBUTING.md](CONTRIBUTING.md) first. Public Issues, Discussions, Wiki and Projects are not currently offered as community channels.
+Non-sensitive documentation corrections may be proposed through public pull requests at the maintainer's discretion. Read [CONTRIBUTING.md](CONTRIBUTING.md), the [code of conduct](CODE_OF_CONDUCT.md) and the [FAQ](docs/FAQ.md) first. Public Issues, Discussions, Wiki and Projects are not currently offered as community channels.
 
 For security concerns about this public repository, use the confidential reporting route described in [SECURITY.md](SECURITY.md). Do not post vulnerabilities, sensitive evidence or private information publicly. No permission to access or test private systems is granted.
 

@@ -8,6 +8,8 @@ Public pull requests proposing **non-sensitive documentation corrections** may b
 
 Please limit submissions to general, non-sensitive corrections or engineering suggestions. Do not submit source code, credentials, token values, wallet details, private paths, internal logs, exploit instructions, private test evidence, operational configuration or financial-performance claims.
 
+Before submitting, read the [publication checklist](docs/PUBLICATION_CHECKLIST.md) and [code of conduct](CODE_OF_CONDUCT.md). Keep the change focused, check the affected links and explain the correction in the pull request template. Do not attach private evidence or request Discord membership through a pull request.
+
 ## Security findings
 
 **Do not submit vulnerabilities through public pull requests.** For a security concern with this public repository, use the private reporting route described in [SECURITY.md](SECURITY.md). Do not independently test any private project or infrastructure.
