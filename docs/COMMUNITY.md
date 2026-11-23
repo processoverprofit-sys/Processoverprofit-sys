@@ -12,7 +12,7 @@ ProcessOverProfit is an independently maintained engineering portfolio covering 
 | [T-Bot](https://github.com/processoverprofit-sys/T-Bot) | Trading-system engineering and risk-control design | Review the public technical documents and proposed test cases. |
 | [BrainBot](https://github.com/processoverprofit-sys/BrainBot) | Local-first Linux desktop software | Review the public project overview and discuss general desktop engineering ideas. |
 | Reddit | Community discovery and constructive feedback | Engage in relevant discussions where subreddit rules allow. |
-| ProcessOverProfit Discord | Developer and follower discussion | Request an invitation through an existing community discussion where permitted. Access is managed by the maintainer. |
+| [ProcessOverProfit Discord](https://discord.gg/TZEmXr2BN) | Developer and follower discussion | Open the owner-provided invite; membership and any screening are managed in Discord. |
 
 GitHub repository notifications are connected to Discord. This does not automatically grant Discord access to GitHub visitors.
 
@@ -31,7 +31,7 @@ T-Bot's [community feedback record](https://github.com/processoverprofit-sys/T-B
 
 ## Requesting Discord access
 
-There is no public invitation or application URL in this guide yet. If you encountered the project through Reddit or another existing community discussion, you can express interest in joining there, subject to that community's rules. The maintainer manages invitations and any developer access separately. If you arrived through GitHub alone, a direct joining route is not yet available; this page will be updated once an application-based route has been verified and approved. Do not use security reports or documentation pull requests to request membership.
+**[Open the ProcessOverProfit Discord invitation](https://discord.gg/TZEmXr2BN).** This link was supplied by the project owner for public community access. Any membership applications, screening or approvals depend on the server's current Discord access settings. The maintainer manages community and developer permissions separately. Do not use security reports or documentation pull requests to request membership.
 
 General discussion does not require access to private source code. Joining Discord does not establish a contributor role, employment, a review engagement or permission to access private systems.
 
