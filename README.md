@@ -70,7 +70,7 @@ I've created a dedicated ProcessOverProfit Discord community for developers, Lin
 
 I welcome constructive discussion about architecture, Python, Linux, Solana, desktop software, risk requirements, testing and technical documentation. You do not need to be an expert to express interest.
 
-**How to get involved:** read the [community guide](docs/COMMUNITY.md#requesting-discord-access) for invitation-request guidance. If you found ProcessOverProfit through Reddit or another community discussion, you can ask for an invitation there where the community rules permit. Discord access is managed by the maintainer; a public invitation link is not currently listed.
+**How to get involved:** **[Open the ProcessOverProfit Discord invitation](https://discord.gg/TZEmXr2BN)** or read the [community guide](docs/COMMUNITY.md#requesting-discord-access). Discord admission and any member application screening are controlled by the server's current settings and its maintainers.
 
 Joining the community does not grant access to private source code, operational systems, signing authority or funds.
 
